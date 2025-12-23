@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Amr, a computer and systems engineering graduate based in cairo,<br>I have an interest in web development and security.
+I am Amr, a computer and systems engineering graduate based in cairo,<br>I have an interest in web development and security,<br>You can find my writeups on [my website](https://amr0xz.gitbook.io/me).
 
 
 ## 🌐 Socials:
